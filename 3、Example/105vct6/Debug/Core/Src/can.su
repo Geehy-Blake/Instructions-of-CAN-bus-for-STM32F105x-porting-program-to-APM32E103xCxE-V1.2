@@ -1,0 +1,8 @@
+can.c:26:6:CAN_EnableInterrupt	16	static
+can.c:31:6:CAN_DisableInterrupt	16	static
+can.c:37:6:CAN_Filter_Config	56	static
+can.c:59:6:CAN_Send	64	static
+can.c:89:6:MX_CAN1_Init	8	static
+can.c:111:6:MX_CAN2_Init	8	static
+can.c:135:6:HAL_CAN_MspInit	56	static
+can.c:212:6:HAL_CAN_MspDeInit	16	static
